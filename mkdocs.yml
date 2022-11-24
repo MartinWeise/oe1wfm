@@ -5,6 +5,8 @@ extra:
   homepage: https://oe1wfm.at
 nav:
   - Home: 'index.md'
+  - Hardware: 'hardware.md'
+  - Software: 'software.md'
   - Contact: 'contact.md'
 extra_css:
   - stylesheets/extra.css
@@ -19,14 +21,14 @@ theme:
     - content.code.annotate
   palette:
     - scheme: default
-      primary: blue grey
+      primary: amber
       font:
         code: Roboto Mono
       toggle:
         icon: material/weather-night
         name: Switch to light mode
     - scheme: slate
-      primary: black
+      primary: orange
       font:
         code: Roboto Mono
       toggle:
