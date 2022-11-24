@@ -3,6 +3,7 @@ site_author: Martin Weise
 copyright: CC BY 4.0 Martin Weise
 extra:
   homepage: https://oe1wfm.at
+  generator: false
 nav:
   - Home: 'index.md'
   - Hardware: 'hardware.md'
@@ -12,6 +13,7 @@ extra_css:
   - stylesheets/extra.css
 theme:
   language: en
+  favicon: images/favicon.svg
   font:
     text: IBM Plex Serif
     code: IBM Plex Mono
@@ -21,19 +23,19 @@ theme:
     - content.code.annotate
   palette:
     - scheme: default
-      primary: amber
+      primary: teal
       font:
         code: Roboto Mono
       toggle:
         icon: material/weather-night
-        name: Switch to light mode
+        name: Switch to dark mode
     - scheme: slate
-      primary: orange
+      primary: teal
       font:
         code: Roboto Mono
       toggle:
         icon: material/weather-sunny
-        name: Switch to dark mode
+        name: Switch to light mode
   name: material
 markdown_extensions:
   - admonition
