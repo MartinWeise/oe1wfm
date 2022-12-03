@@ -5,18 +5,17 @@ hide:
 
 ---
 
-# OE1WFM
-
 Martin is a licensed CEPT amateur radio operator based in Vienna, Austria. This website is a personal
 (re-)collection of my activities on 2m/70cm both analogue and digital modes.
 
 ## Hardware Overview
 
-My station consists of a used, commercial Hytera PD-875g device (DMR) with 2m/70cm band capabilities.
+My station consists of a used, commercial Hytera PD-875g device (DMR) with 70cm band capabilities.
 
 ## Software Overview
 
-I use the Hytera CPS and a modified code plug I found on the Internet (years ago) for programming the Hytera PD-875g.
+I use the stadnard Hytera CPS and a custom code plug for programming the Hytera PD-875g, see my short intro and download
+the code plug for firmware version A9.00.04.805.iM in the [Software](/software) section.
 
 ## Operation
 

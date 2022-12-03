@@ -5,11 +5,14 @@ hide:
 
 ---
 
-# Hardware
+## Hotspot
+
+I am currently experimenting with Pi-Star. More to follow.
 
 ## Station
 
-My station is a used Hytera PD-875g (2m/70cm) with DMR code plug that I modified from the Internet. The software (Hytera
-CPS) can be found at [hamdigitaal.nl](https://www.hamdigitaal.nl/hytera-software-1/).
+My station is a used Hytera PD-875g with a custom code plug. I downloaded the Hytera CPS programming software
+from [hamdigitaal.nl](https://www.hamdigitaal.nl/hytera-software-1/). You can download a code plug for OE1 (Vienna) in
+the [Software](/software/#code-plug) section.
 
 ![Hytera PD-875g](/images/hytera_pd875g_accessory.jpg)

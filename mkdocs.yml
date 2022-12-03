@@ -6,6 +6,7 @@ extra:
   generator: false
 nav:
   - Home: 'index.md'
+  - Operation: 'operation.md'
   - Hardware: 'hardware.md'
   - Software: 'software.md'
   - Contact: 'contact.md'
@@ -43,3 +44,4 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+  - footnotes
