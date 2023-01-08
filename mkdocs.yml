@@ -23,20 +23,9 @@ theme:
     - navigation.tabs.sticky
     - content.code.annotate
   palette:
-    - scheme: default
-      primary: teal
+    - primary: black
       font:
         code: Roboto Mono
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate
-      primary: teal
-      font:
-        code: Roboto Mono
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
   name: material
 markdown_extensions:
   - admonition
