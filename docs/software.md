@@ -13,7 +13,7 @@ Windows 10 systems, I did not manage to do it and had to revert to Windows 7.
 
 ## Code Plug
 
-After playing around with the Hytera PD-875g for quite a while, I was able to stitch together a decent code plug for
+After playing around with the Hytera PD-785g for quite a while, I was able to stitch together a decent code plug for
 OE1 (Vienna) for both *analog* and *digital* stations after viewing the
 excellent [Example Programming](https://dmraustria.at/programmierbeispiel-hytera-pd75/)<sup>(DE)</sup> [^1].
 I used [RepeaterBook](https://www.repeaterbook.com/row_repeaters/prox.php) to find all stations in Vienna with
@@ -51,7 +51,7 @@ Download the code plug for firmware A9.00.04.805.iM.
 
 <center>
 
-[Code Plug <sup>A9.00.04.805.iM</sup>](assets/PD875g_A9.00.04.805.iM.rcdx){ .md-button .md-button--primary }
+[Code Plug <sup>A9.00.04.805.iM</sup>](assets/PD785g_A9.00.04.805.iM.rcdx){ .md-button .md-button--primary }
 
 </center>
 
