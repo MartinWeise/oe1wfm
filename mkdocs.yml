@@ -6,9 +6,8 @@ extra:
   generator: false
 nav:
   - Home: 'index.md'
-  - Operation: 'operation.md'
-  - Hardware: 'hardware.md'
-  - Software: 'software.md'
+  - Analog: 'analog.md'
+  - Digital: 'digital.md'
   - Contact: 'contact.md'
 extra_css:
   - stylesheets/extra.css

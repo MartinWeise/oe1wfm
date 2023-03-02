@@ -6,6 +6,13 @@
     margin-left: 0.5rem !important;
 }
 
+:root {
+    --md-primary-fg-color: #212121;
+    --md-accent-fg-color: #161616 /* darken 10% */;
+    --md-primary-fg-color--dark: #161616 /* darken 10% */;
+    --md-typeset-a-color: var(--md-primary-fg-color) !important;
+}
+
 .md-typeset a,
 .md-typeset a {
     color: var(--md-typeset-color);
@@ -16,13 +23,4 @@
 .md-typeset a:hover {
     color: var(--md-typeset-color);
     border-bottom: 2px solid var(--md-primary-fg-color--dark);
-}
-
-.md-typeset .md-button:is(:focus,:hover) {
-    background-color: var(--md-primary-fg-color--dark);
-    border-color: var(--md-primary-fg-color--dark);
-}
-
-.me-title {
-    font-size: 0.8em;
 }
