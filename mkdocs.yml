@@ -5,10 +5,10 @@ extra:
   homepage: https://oe1wfm.at
   generator: false
 nav:
-  - Home: 'index.md'
-  - Analog: 'analog.md'
-  - Digital: 'digital.md'
-  - Contact: 'contact.md'
+  - index.md
+  - analog.md
+  - digital.md
+  - contact.md
 extra_css:
   - stylesheets/extra.css
 theme:
