@@ -41,6 +41,12 @@ and have some company.
 
 ### Operation
 
+#### APRS
+
+tbd [Cluster](https://aprs.fi/info/a/OE1WFM)
+
+#### DMR
+
 The [DMR Cheat Sheet](https://pool.dl5rfk.org/DMR-Cheatsheet.pdf)<sup>(DE)</sup> [^1] was really helpful to get a grasp
 on DMR,
 Talk Groups, Time Slots, etc.
