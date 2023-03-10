@@ -17,7 +17,7 @@ from [hamdigitaal.nl](https://www.hamdigitaal.nl/hytera-software-1/). The radio 
 
 ### Antenna
 
-tbd
+400-470MHz
 
 <figure markdown>
   ![Radio](/images/hytera-antenna.JPEG)
@@ -26,7 +26,7 @@ tbd
 
 ### Power Supply
 
-tbd
+Hytera BL2008 Li-Ion battery pack 7.4V 2Ah
 
 ### Equipment
 
@@ -43,7 +43,7 @@ and have some company.
 
 #### APRS
 
-tbd [Cluster](https://aprs.fi/info/a/OE1WFM)
+[Cluster](https://aprs.fi/info/a/OE1WFM)
 
 #### DMR
 
