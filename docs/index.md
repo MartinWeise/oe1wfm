@@ -1,4 +1,7 @@
 ---
+summary: Welcome on the OE1WFM operator page
+authors:
+- Martin Weise
 hide:
 
 - navigation
@@ -13,3 +16,4 @@ QSL via [QRZ.com](https://www.qrz.com/db/oe1wfm), e-mail or regular mail.
 
 I am operating a fully mobile manpack with a new Yaesu FT-891 on 40/30/20m bands and a used Hytera PD-785g DMR on 70cm.
 
+[View Analog](/analog){ .action-button .md-button .md-button--primary }

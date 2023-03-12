@@ -6,7 +6,7 @@
     margin-left: 0.5rem !important;
 }
 
-:root>* {
+:root > * {
     --md-primary-fg-color: #212121;
     --md-primary-fg-color--dark: #161616 /* darken 10% */;
     --md-accent-fg-color: #e5574d;
@@ -28,4 +28,13 @@
 
 .md-typeset figcaption {
     max-width: 40rem;
+}
+
+.qsl-card {
+    position: display-block;
+    width: 100px;
+    height: 60px;
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
 }

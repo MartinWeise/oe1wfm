@@ -1,4 +1,7 @@
 ---
+summary: Analog operation summary page
+authors:
+- Martin Weise
 hide:
 
 - navigation
@@ -52,11 +55,6 @@ However, due to my limited skills in soldering the wires and the general popular
 I decided against them within months. The Power Pole system is way easier to install for people like me and with 10
 gauge cables at my disposal laying around anyways, I finally moved towards them.
 
-<figure markdown>
-  ![Radio](/images/model-power-pole.png)
-  <figcaption>Model of the Anderson Power Pole modification</figcaption>
-</figure>
-
 To facilitate this in a all-in way, I had to get rid of the default power plug on the Yaesu FT-891 and replacing it with
 a custom casing for the power pole system. Fortunately, the prototyping community is very open and provides
 a [model for this exact modification](https://www.thingiverse.com/thing:5443777) by DG7PX that can facilitate this.
@@ -65,7 +63,7 @@ parts in about 2 hours. The result is very stable, especially the integrated pol
 in place.
 
 <figure markdown>
-  ![Radio](/images/cables-anderson-powerpole.jpeg)
+  ![Radio](/images/cables-anderson-powerpole.png)
   <figcaption>Cable management with Anderson Power Pole connectors</figcaption>
 </figure>
 
@@ -77,11 +75,6 @@ Unfortunately the knobs of the Yaesu FT-891 are sticking out from the main body 
 want to protect them from material stress and damage. I found this
 excellent [model of protection rails](https://www.thingiverse.com/thing:4757295) from IU1OPK to ease also my concerns.
 
-<figure markdown>
-  ![Radio](/images/model-frames.png)
-  <figcaption>Model of the Yaesu FT-891 protection rails</figcaption>
-</figure>
-
 I was able to print them using standard black PLA filament and 20% infill and automatic support structures. I can't
 remember the nozzle. This took about 20 hours to complete in four pieces, two need to be glued together. The result is
 very stable and lightweight.
@@ -91,18 +84,11 @@ very stable and lightweight.
   <figcaption>Yaesu FT-891 protection frames (result)</figcaption>
 </figure>
 
-I use a custom WSJT-X wire and an external soundcard for FT8. More will come soon.
-
-<figure markdown>
-  ![Radio](/images/wsjtx.png)
-  <figcaption>Mobile FT-8 operation using WSJT-X</figcaption>
-</figure>
-
 ### Operation
 
 I am currently in the process of migrating to a better backpack, stay tuned.
 
 <figure markdown>
-  ![Radio](/images/manpack.png)
-  <figcaption>Portable manpack</figcaption>
+  ![Radio](/images/pota-all.png)
+  <figcaption>Portable setup for the Yaesu FT-891 and Hytera PD-785g</figcaption>
 </figure>
