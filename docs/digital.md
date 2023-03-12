@@ -1,8 +1,9 @@
 ---
+summary: Digital operation summary page
+authors:
+- Martin Weise
 hide:
-
 - navigation
-
 ---
 
 ## Hytera PD-785g

@@ -3,17 +3,23 @@ summary: Analog operation summary page
 authors:
 - Martin Weise
 hide:
-
 - navigation
-
 ---
 
 ## Yaesu FT-891
 
+I picked up the hobby of amateur radio in late 2021 and was thrilled from the start. My first attempts with a Hytera
+PD-785g analogue and digital mode on 70cm was not very satisfying in the long run, so I invested into a new Yaesu FT-891
+and mobile setup (shown below).
+
 <figure markdown>
-  ![Radio](/images/radio_front.png)
-  <figcaption>Radio</figcaption>
+  ![Radio](/images/pota.png)
+  <figcaption>Portable setup for the Yaesu FT-891 and Hytera PD-785g</figcaption>
 </figure>
+
+With the purchase of a brand new Yaesu FT-891 and a dipole antenna from GB, my hobby got a new rush. The setup is fully
+mobile and runs on a 6Ah LiFePO4 battery. You see below that I use it in every condition, especially winter at around
+0°C (32°F), the battery lasts around 3h on SSB ~20W and around 5h on QRP modes.
 
 ### Antenna
 
@@ -86,9 +92,4 @@ very stable and lightweight.
 
 ### Operation
 
-I am currently in the process of migrating to a better backpack, stay tuned.
-
-<figure markdown>
-  ![Radio](/images/pota-all.png)
-  <figcaption>Portable setup for the Yaesu FT-891 and Hytera PD-785g</figcaption>
-</figure>
+tbd
