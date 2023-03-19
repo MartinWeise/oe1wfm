@@ -46,6 +46,15 @@ and tent hooks which worked very fine. Note that the cord is fixed on each end w
   <figcaption>Second field day, setting up the mobile station in January '23 (Kobenzl Vienna, Austria)</figcaption>
 </figure>
 
+The makeshift mast guying kit above, made from cardboard worked for some time but proved to be too small. I therefore
+looked up the winder from the Multi Function Guying Kit and found the manufacturer. It turned out to be produced for
+sport-kites, I could order them (without the strings) for around 6€ each. I can absolutely recommend those!
+
+<figure markdown>
+  ![Radio](/images/wire_winder.png)
+  <figcaption>Improved mast guying with the HQ-Winderset Dyneema</figcaption>
+</figure>
+
 ### Power Supply
 
 Since the Yaesu FT-891 does not come with a ready to use power plug, I decided to use EC-5 connectors because of
