@@ -13,8 +13,8 @@ PD-785g analogue and digital mode on 70cm was not very satisfying in the long ru
 and mobile setup (shown below).
 
 <figure markdown>
-  ![Radio](/images/pota.png)
-  <figcaption>Portable setup for the Yaesu FT-891 and Hytera PD-785g</figcaption>
+  ![Radio](/images/pota.JPEG)
+  <figcaption>Portable setup for the Yaesu FT-891</figcaption>
 </figure>
 
 With the purchase of a brand new Yaesu FT-891 and a dipole antenna from GB, my hobby got a new rush. The setup is fully
@@ -63,7 +63,7 @@ up to 20-30A. With a maximum power output of 100W from the Yaesu FT-891, I want 
 
 <figure markdown>
   ![Radio](/images/cables-ec5.png)
-  <figcaption>Cable management with EC-5 connectors with limited soldering skills</figcaption>
+  <figcaption>Previous management with EC-5 connectors with limited soldering skills</figcaption>
 </figure>
 
 However, due to my limited skills in soldering the wires and the general popularity of Anderson Power Pole connectors,
@@ -101,4 +101,20 @@ very stable and lightweight.
 
 ### Operation
 
-tbd
+I have now activated my portable station sufficiently to give solid recommendations. I selected a generic 45L backpack
+on Amazon with the following criteria: must have 45L storage capacity, must have compartments for both laptop and radio,
+guying kit and bandhopper antenna, must have clips or bags for the Tactical 7000hds, must have outer bags for tent pegs,
+and must have MOLLE system for adding pouches such as drinking flask.
+
+<figure markdown>
+  ![Radio](/images/backpack.png)
+  <figcaption>Portable backpack 45L (Vinbaggage) with MOLLE system, attached is a drinking flask adapter</figcaption>
+</figure>
+
+This backpack has it all. I really like the weight distribution, especially for long walks and bicycle rides this
+backpack does not feel heavy at all as the weight is very close to the body.
+
+<figure markdown>
+  ![Radio](/images/donauinsel.png)
+  <figcaption>Third field day, POTA with the new backpack in April'23 (Donauinsel, Vienna)</figcaption>
+</figure>
