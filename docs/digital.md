@@ -113,10 +113,8 @@ via [TCP/IP](https://aprs.fi/info/w/8142074207) and works excellent as you can s
 
 #### DMR
 
-The [DMR Cheat Sheet](https://pool.dl5rfk.org/DMR-Cheatsheet.pdf)<sup>(DE)</sup> [^2] was really helpful to get a grasp
+The [DMR Cheat Sheet](https://pool.dl5rfk.org/DMR-Cheatsheet.pdf)<sup>(DE)</sup> [^1] was really helpful to get a grasp
 on DMR,
 Talk Groups, Time Slots, etc.
 
-[^1]: I archived a [local copy](/assets/mirror/Pi-Star_RPi_V3.4.17_20-Jan-2019.zip) of Pi Star 3.4.17 along with 
-a [md5 checksum](/assets/mirror/Pi-Star_RPi_V3.4.17_20-Jan-2019.zip.md5).
-[^2]: I archived a [local copy](/assets/mirror/DMR-Cheatsheet.pdf) of the DMR Cheatsheet, courtesy of DL5RFK.
+[^1]: I archived a [local copy](/assets/mirror/DMR-Cheatsheet.pdf) of the DMR Cheatsheet, courtesy of DL5RFK.
