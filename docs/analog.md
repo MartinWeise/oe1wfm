@@ -19,9 +19,38 @@ and mobile setup (shown below).
 
 With the purchase of a brand new Yaesu FT-891 and a dipole antenna from GB, my hobby got a new rush. The setup is fully
 mobile and runs on a 6Ah LiFePO4 battery. You see below that I use it in every condition, especially winter at around
-0°C (32°F), the battery lasts around 3h on SSB ~20W and around 5h on QRP modes.
+0°C (32°F), the battery lasts around 3h on SSB ~20W and around 5h on QRP modes. I bought a second (equal) battery for
+field days, the HP laptop battery surprisingly lasts around 5h on constant [N1MM](https://n1mmwp.hamdocs.com/) usage.
 
-### Antenna
+### Manpack Overview
+
+I have now activated my portable station sufficiently to give solid recommendations. I selected a generic 45L backpack
+on Amazon with the following criteria: must have 45L storage capacity, must have compartments for both laptop and radio,
+guying kit and bandhopper antenna, must have clips or bags for the Tactical 7000hds, must have outer bags for tent pegs,
+and must have MOLLE system for adding pouches such as drinking flask.
+
+<figure markdown>
+  ![Radio](/images/backpack.png)
+  <figcaption>Portable backpack 45L (Vinbaggage) with MOLLE system, attached is a drinking flask adapter</figcaption>
+</figure>
+
+#### Key facts
+
+* Costs: approx. 1000€ 
+* Weight: approx. 23kg
+* Size: tbd
+
+This backpack has it all. I really like the weight distribution, especially for long walks and bicycle rides this
+backpack does not feel heavy at all as the weight is very close to the body.
+
+<figure markdown>
+  ![Radio](/images/donauinsel.png)
+  <figcaption>Third field day, POTA with the new backpack in April'23 (Donauinsel, Vienna)</figcaption>
+</figure>
+
+### Manpack Assembly
+
+#### Antenna
 
 I live in the heart of Vienna in the 3<sup>rd</sup> district very close to the city center in a flat that surrounded by
 concrete. Therefore, and because I like to spend my free days outside I decided to buy a SOTA antenna with beam.
@@ -55,7 +84,7 @@ sport-kites, I could order them (without the strings) for around 6€ each. I ca
   <figcaption>Improved mast guying with the HQ-Winderset Dyneema</figcaption>
 </figure>
 
-### Power Supply
+#### Power Supply
 
 Since the Yaesu FT-891 does not come with a ready to use power plug, I decided to use EC-5 connectors because of
 their availability and high current rate (up to 90A) on the connectors and the pre-shipped 10 gauge wires that withstand
@@ -84,7 +113,7 @@ in place.
 
 For the paracord grounding I am using regular camping tent pegs.
 
-### Equipment
+#### Equipment
 
 Unfortunately the knobs of the Yaesu FT-891 are sticking out from the main body to a degree where many portable HAMs
 want to protect them from material stress and damage. I found this
@@ -97,24 +126,4 @@ very stable and lightweight.
 <figure markdown>
   ![Radio](/images/frames.png)
   <figcaption>Yaesu FT-891 protection frames (result)</figcaption>
-</figure>
-
-### Operation
-
-I have now activated my portable station sufficiently to give solid recommendations. I selected a generic 45L backpack
-on Amazon with the following criteria: must have 45L storage capacity, must have compartments for both laptop and radio,
-guying kit and bandhopper antenna, must have clips or bags for the Tactical 7000hds, must have outer bags for tent pegs,
-and must have MOLLE system for adding pouches such as drinking flask.
-
-<figure markdown>
-  ![Radio](/images/backpack.png)
-  <figcaption>Portable backpack 45L (Vinbaggage) with MOLLE system, attached is a drinking flask adapter</figcaption>
-</figure>
-
-This backpack has it all. I really like the weight distribution, especially for long walks and bicycle rides this
-backpack does not feel heavy at all as the weight is very close to the body.
-
-<figure markdown>
-  ![Radio](/images/donauinsel.png)
-  <figcaption>Third field day, POTA with the new backpack in April'23 (Donauinsel, Vienna)</figcaption>
 </figure>
